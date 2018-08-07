@@ -101,3 +101,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.notesapp/node_modules
