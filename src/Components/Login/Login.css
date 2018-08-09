@@ -1,0 +1,29 @@
+.Login-container {
+    background-color: rgb(236, 233, 233);
+    width: 60%;
+    margin: 0 auto;
+    height: 70vh;
+    margin-top: 10vh;
+}
+
+.Login-header {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.Login-container input {
+    display: block;
+    width: 80%;
+    margin: 2rem auto;
+    height: 3rem;
+}
+
+.Login-container button {
+    width: 40%;
+    margin: 0 auto;
+    background-color: violet;
+    position: relative;
+    height: 3rem;
+    left: 30%;
+}
